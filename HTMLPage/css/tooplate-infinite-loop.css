@@ -9,8 +9,8 @@ https://www.tooplate.com/view/2117-infinite-loop
 @import url("https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900");
 
 body {
-	font-family: "Raleway", sans-serif;
-	font-size: 1.2em;
+font-family: "Raleway", sans-serif;
+font-size: 1.2em;
   color: #707070;
   margin: 0;
   padding: 0;
@@ -320,6 +320,236 @@ blockquote {
   font-size: 1.1rem;
 }
 
+
+/*erp*/
+
+#erp {
+	color: white;
+	background-image: url(../img/infinite-loop-02.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+}
+
+@media (max-width: 991px) {
+	#erp {
+		background-image: url(../img/infinite-loop-02-mobile.jpg);
+	}
+}
+
+.tm-erp-content {
+	position: relative;
+	z-index: 100;
+}
+
+.tm-bg-overlay {
+	width: 100%;
+	height: 100%;
+	background: rgba(20, 70, 80, 0.2);
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 0;
+}
+
+.tm-erp-carousel {
+	max-width: 1050px;
+	margin: 0 auto;
+}
+
+.tm-erp-item {
+	max-width: 900px;
+	margin-left: 35px;
+	margin-right: 35px;
+}
+
+	.tm-erp-item img {
+		border-radius: 50%;
+		margin-bottom: 35px;
+	}
+
+	.tm-erp-item figcaption {
+		text-align: right;
+		font-style: italic;
+		font-size: 1.1rem;
+	}
+
+/*email*/
+
+#email {
+	color: white;
+	background-image: url(../img/infinite-loop-02.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+}
+
+@media (max-width: 991px) {
+	#email {
+		background-image: url(../img/infinite-loop-02-mobile.jpg);
+	}
+}
+
+.tm-email-content {
+	position: relative;
+	z-index: 100;
+}
+
+.tm-bg-overlay {
+	width: 100%;
+	height: 100%;
+	background: rgba(20, 70, 80, 0.2);
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 0;
+}
+
+.tm-email-carousel {
+	max-width: 1050px;
+	margin: 0 auto;
+}
+
+.tm-email-item {
+	max-width: 900px;
+	margin-left: 35px;
+	margin-right: 35px;
+}
+
+	.tm-email-item img {
+		border-radius: 50%;
+		margin-bottom: 35px;
+	}
+
+	.tm-email-item figcaption {
+		text-align: right;
+		font-style: italic;
+		font-size: 1.1rem;
+	}
+
+/*erp*/
+
+#erp {
+	color: white;
+	background-image: url(../img/infinite-loop-02.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+}
+
+@media (max-width: 991px) {
+	#erp {
+		background-image: url(../img/infinite-loop-02-mobile.jpg);
+	}
+}
+
+.tm-erp-content {
+	position: relative;
+	z-index: 100;
+}
+
+.tm-bg-overlay {
+	width: 100%;
+	height: 100%;
+	background: rgba(20, 70, 80, 0.2);
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 0;
+}
+
+.tm-erp-carousel {
+	max-width: 1050px;
+	margin: 0 auto;
+}
+
+.tm-erp-item {
+	max-width: 900px;
+	margin-left: 35px;
+	margin-right: 35px;
+}
+
+	.tm-erp-item img {
+		border-radius: 50%;
+		margin-bottom: 35px;
+	}
+
+	.tm-erp-item figcaption {
+		text-align: right;
+		font-style: italic;
+		font-size: 1.1rem;
+	}
+
+
+/*sharefol*/
+
+#erp {
+	color: white;
+	background-image: url(../img/Untitled-2-03.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: relative;
+}
+
+@media (max-width: 991px) {
+	#sharefol {
+		background-image: url(../img/infinite-loop-02-mobile.jpg);
+	}
+}
+
+.tm-sharefol-content {
+	position: relative;
+	z-index: 100;
+}
+
+.tm-bg-overlay {
+	width: 100%;
+	height: 100%;
+	background: rgba(20, 70, 80, 0.2);
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 0;
+}
+
+.tm-sharefol-carousel {
+	max-width: 1050px;
+	margin: 0 auto;
+}
+
+.tm-sharefol-item {
+	max-width: 900px;
+	margin-left: 35px;
+	margin-right: 35px;
+}
+
+	.tm-sharefol-item img {
+		border-radius: 50%;
+		margin-bottom: 35px;
+	}
+
+	.tm-sharefol-item figcaption {
+		text-align: right;
+		font-style: italic;
+		font-size: 1.1rem;
+	}
+
+
+
+
+
 /* Work */
 
 .tm-section-desc {
@@ -511,8 +741,8 @@ figure.effect-honey:hover h2 i {
 
 /* Contact */
 
-#contact {
-  color: #333;
+#support {
+  color: white;
   background-color: #001828;
   background-image: url(../img/infinite-loop-03.jpg);
   background-position: center;
